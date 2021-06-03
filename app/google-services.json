@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715793822111",
+    "project_id": "question-adec3",
+    "storage_bucket": "question-adec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715793822111:android:76935be58b7d9548158daa",
+        "android_client_info": {
+          "package_name": "com.ddev.questionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715793822111-hvqc07ps1eai14f06b9bevnltpcld1hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3uOTJpdd8-MxYkJofCcMVzAOQXqXMDP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715793822111-hvqc07ps1eai14f06b9bevnltpcld1hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
